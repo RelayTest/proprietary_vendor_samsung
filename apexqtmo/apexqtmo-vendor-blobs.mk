@@ -91,3 +91,41 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/apexqtmo/proprietary/etc/firmware/wcnss.b04:system/etc/firmware/wcnss.b04 \
     vendor/samsung/apexqtmo/proprietary/etc/firmware/wcnss.b05:system/etc/firmware/wcnss.b05 \
     vendor/samsung/apexqtmo/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt
+
+PRODUCT_COPY_FILES += \
+    vendor/samsung/apexqtmo/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
+    vendor/samsung/apexqtmo/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
+    vendor/samsung/apexqtmo/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:system/vendor/lib/egl/libGLESv2S3D_adreno.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libc2d2_z180.so:system/vendor/lib/libc2d2_z180.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
+    vendor/samsung/apexqtmo/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+    vendor/samsung/apexqtmo/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
+    vendor/samsung/apexqtmo/proprietary/lib/libdivxdrm.so:system/lib/libdivxdrm.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
+    vendor/samsung/apexqtmo/proprietary/lib/libyamaha.so:system/lib/libyamaha.so
